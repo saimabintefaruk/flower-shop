@@ -1,0 +1,33 @@
+body {
+  background-color: #fef7f7;
+  font-family: Arial, sans-serif;
+}
+
+.text-pink {
+  color: #960d52; 
+}
+
+.btn-pink {
+  
+  border: none;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+  background-color: #5f285f;
+  color: white;
+
+}
+
+.btn-pink:hover {
+  background-color: #960d52; 
+}
+
+
+.login-card {
+  border-radius: 15px;
+  background-color: #f7cbe1;
+  padding: 30px;
+}
+.image{
+  border-color: #800080; 
+  box-shadow: 0 0 3px #960d52; 
+}

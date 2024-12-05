@@ -1,0 +1,29 @@
+/* General Styles */
+body {
+    background-color: #fff0f5;
+}
+
+/* Colors */
+.text-purple {
+    color: #800080;
+}
+.btn-pink {
+    background-color: #800080;
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+.btn-pink:hover {
+    background-color:#960d52;
+}
+
+/* Image Section */
+img {
+    object-fit: cover;
+    height: 100%;
+}
+footer{
+    background-color: #f9c7d9;
+    color: black;
+    font-weight: bold;
+  }
